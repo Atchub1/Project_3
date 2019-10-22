@@ -1,2 +1,0 @@
-twitter_API_key = 'sy0jeELK0WOXAi4EVPPRGxnJ6'
-twitter_API_secret_key = '6AzplvS3Bw1YSaoTgXB45cbuARGygs5IjEZmWbN9kRp09KC7VJ' 
