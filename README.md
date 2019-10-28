@@ -1,7 +1,7 @@
 
 # Sentiment Analysis on @CTA Tweets using Machine Learning Algorithms
+![CTA_Twitter](Img/CTA_Twitter.png)
 
-# # ?? ?? ?? ?? ?? ?? ?? ??
 
 ## Background
 
@@ -19,13 +19,13 @@ We used [Airline Data](Link) obtained from Kaggle to train and test our data usi
 First, we convert text data into number vectors using label encoder.
 And then, we train vector data and its labels (Positive, Negative or Neutral) using training models.
 
-The models that we used are:
-[Multinomial Naive Bayes](Code/Bayesian_Model.ipynb)
-[Complement Naive Bayes](Code/Bayesian_Model.ipynb)
-[Bernoulli Naive Bayes](Code/Bayesian_Model.ipynb)
-[Decision Tree](Code/Decision_Tree.ipynb)
-[SVM (Support Vector Machine)](Code/SVMl.ipynb)
-[Random Forest Classifier](Code/Random_Forest_Classifier.ipynb)
+- The models that we used are:
+- Multinomial Naive Bayes
+- Complement Naive Bayes
+- Bernoulli Naive Bayes
+- Decision Tree
+- SVM (Support Vector Machine)
+- Random Forest Classifier
 
 ![Scores](Img/Score.png)
 
