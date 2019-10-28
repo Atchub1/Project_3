@@ -1,13 +1,13 @@
 
 # Sentiment Analysis on @CTA Tweets using Machine Learning Algorithms
-![CTA_Twitter](Img/CTA_Twitter.png)
 
+:smiley:
 
 ## Background
 
 Sentiment analysis is using analytical and machine learning models to classify sentiment of the input sentence as positive or negative.
 
-![sentiments](Img/sentiments.png)
+![CTA_Twitter](Img/CTA_Twitter.png)
 
 The goal of this project is to predict people's sentiments over last 10 days about CTA (Chicago Transit Authority) on twitter posts with NLP using  Python library Scikit-Learn.
 
