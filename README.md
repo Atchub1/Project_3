@@ -32,4 +32,4 @@ After comparing each model, we found that SVM gives the maximum score of 78.38 %
 
 ![Sentiments](Img/Total_Tweets.png)
 
-![Words](Img/WordCloud.png)
+![Words](Img/WordCloud2.png)
