@@ -1,7 +1,7 @@
 
 # Sentiment Analysis on @CTA Tweets using Machine Learning Algorithms
 
-:smiley:
+:smiley: :satisfied: :smirk: :expressionless: :confused: :disappointed: :rage:
 
 ## Background
 
