@@ -7,7 +7,7 @@
 
 Sentiment analysis is using analytical and machine learning models to classify sentiment of the input sentence as positive or negative.
 
-![CTA_Twitter](Img/CTA_Twitter.png)
+![sentiments](Img/sentiments.png)
 
 The goal of this project is to predict people's sentiments over last 10 days about CTA (Chicago Transit Authority) on twitter posts with NLP using  Python library Scikit-Learn.
 
