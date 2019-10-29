@@ -17,7 +17,7 @@ This data is something that the CTA could start storing and keeping track of now
 
 The code uses the [tweepy](http://www.tweepy.org/) library to access the Twitter API.
 
-We used [Airline Data](Link) obtained from Kaggle to train and test our data using various ML models and compared the score for each models.
+We used [Airline Data](https://www.figure-eight.com/data-for-everyone/) obtained from Kaggle to train and test our data using various ML models and compared the score for each models.
 First, we convert text data into number vectors using label encoder.
 And then, we train vector data and its labels (Positive, Negative or Neutral) using training models.
 
