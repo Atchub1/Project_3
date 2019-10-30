@@ -33,6 +33,7 @@ And then, we train vector data and its labels (Positive, Negative or Neutral) us
 
 After comparing each model, we found that SVM gives the maximum score of 78.38 %. So we used SVM on CTA Tweets data to predict the Sentiments.
 
-![Sentiments](Img/Total_Tweets.png)
+![Sentiments](Img/Total_Tweets.png) ![Sentiments](Img/Pie.png)
+
 
 ![Words](Img/WordCloud2.png)
